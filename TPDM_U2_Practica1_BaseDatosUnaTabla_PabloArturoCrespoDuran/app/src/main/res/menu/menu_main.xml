@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.tpdm_u2_practica1_basedatosunatabla_pabloarturocrespoduran.MainActivity">
+    <item android:id="@+id/acercaDe" android:title="Acerca de ..." />
+    <item android:id="@+id/salir" android:title="Salir" />
+</menu>
